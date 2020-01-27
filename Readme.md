@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dmitry Grigoriev](https://up.htmlacademy.ru/javascript/19/user/1054979).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Полуэктов](https://up.htmlacademy.ru/javascript/19/user/1283179).
 
 ---
 
